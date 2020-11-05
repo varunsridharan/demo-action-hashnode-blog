@@ -22,6 +22,7 @@
 ## 📜  License & Conduct
 - [**The Unlicense**](https://github.com/varunsridharan/demo-action-hashnode-blog/blob/main/LICENSE) © [Varun Sridharan](website)
 - [Code of Conduct](https://github.com/varunsridharan/.github/blob/master/CODE_OF_CONDUCT.md)
+
 <!-- END license-and-conduct.mustache -->
 
 <!-- START sponsor.mustache -->
@@ -39,6 +40,7 @@ If you, or your company, use any of my projects or like what I’m doing, kindly
 [buymeacoffee]: https://sva.onl/buymeacoffee
 [twitter]: https://sva.onl/twitter/
 [website]: https://sva.onl/website/
+
 <!-- END sponsor.mustache -->
 
 <!-- START connect-and-say-hi.mustache -->
@@ -53,6 +55,7 @@ If you, or your company, use any of my projects or like what I’m doing, kindly
 [github]: https://sva.onl/github/
 [twitter]: https://sva.onl/twitter/
 [telegram]: https://sva.onl/telegram/
+
 <!-- END connect-and-say-hi.mustache -->
 
 
@@ -66,4 +69,5 @@ If you, or your company, use any of my projects or like what I’m doing, kindly
 </p>
 
 ---
+
 <!-- END footer.mustache -->
