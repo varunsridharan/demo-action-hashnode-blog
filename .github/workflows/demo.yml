@@ -70,8 +70,8 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: ${{ env.hashnode_username }}
-          COUNT: ${{ env.count }}
+          COUNT: 12
           FILE: "blog-grid-4.md"
-          STYLE: "blog-grid-3"
+          STYLE: "blog-grid-4"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
