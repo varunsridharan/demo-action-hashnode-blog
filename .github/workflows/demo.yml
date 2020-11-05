@@ -1,0 +1,77 @@
+name: "Hashnode Blog Demo"
+
+env:
+  hashnode_username: 'ayushi7rawat'
+  count: 6
+
+on:
+  workflow_dispatch:
+
+
+jobs:
+  update_demo:
+    name: "Update Latest Blogs"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📥  blog"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: ${{ env.hashnode_username }}
+          COUNT: ${{ env.count }}
+          FILE: "blog.md"
+          STYLE: "blog"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "📥  blog-left"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: ${{ env.hashnode_username }}
+          COUNT: ${{ env.count }}
+          FILE: "blog-left.md"
+          STYLE: "blog-left"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "📥  blog-right"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: ${{ env.hashnode_username }}
+          COUNT: ${{ env.count }}
+          FILE: "blog-right.md"
+          STYLE: "blog-right"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "📥  blog-alternate"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: ${{ env.hashnode_username }}
+          COUNT: ${{ env.count }}
+          FILE: "blog-alternate.md"
+          STYLE: "blog-alternate"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "📥  blog-grid"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: ${{ env.hashnode_username }}
+          COUNT: ${{ env.count }}
+          FILE: "blog-grid.md"
+          STYLE: "blog-grid"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "📥  blog-grid-4"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: ${{ env.hashnode_username }}
+          COUNT: ${{ env.count }}
+          FILE: "blog-grid-4.md"
+          STYLE: "blog-grid-3"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
