@@ -80,7 +80,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: ${{ env.hashnode_username }}
-          COUNT: 12
+          COUNT: ${{ env.count }}
           FILE: "list.md"
           STYLE: "list"
         env:
@@ -90,7 +90,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: ${{ env.hashnode_username }}
-          COUNT: 12
+          COUNT: ${{ env.count }}
           FILE: "list-ordered.md"
           STYLE: "list-ordered"
         env:
