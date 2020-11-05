@@ -1,5 +1,9 @@
-# Hashnode Blog - Github Action Demo
-This repository is a demo for Hashnode Blog Github Action
+<p align="center">
+   <a href="https://github.com/varunsridharan/action-hashnode-blog">
+      <img src="https://cdn.svarun.dev/gh/varunsridharan/action-hashnode-blog/banner.png"/>
+   </a>
+</p>
+
 
 ## Predefined Styles
 1. [Blog](blog.md)
