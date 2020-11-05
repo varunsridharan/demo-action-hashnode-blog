@@ -1,14 +1,12 @@
-# Style : Blog Grid - 4
-
-> **Note** You can provide how many columns to render per row like `blog-grid-{number}`
+# Style : List
 
 ```yaml
   - name: "📚  Hashnode Updater"
     uses: "varunsridharan/action-hashnode-blog@main"
     with:
       USERNAME: 'your-username'
-      COUNT: 12
-      STYLE: "blog-grid-4" # you can increase / decrease the no of columns to render by changing the value 4
+      COUNT: 6
+      STYLE: "list"
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```

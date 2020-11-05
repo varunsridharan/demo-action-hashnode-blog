@@ -75,3 +75,23 @@ jobs:
           STYLE: "blog-grid-4"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "📥  list"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: ${{ env.hashnode_username }}
+          COUNT: 12
+          FILE: "list.md"
+          STYLE: "list"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "📥  list-ordered"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: ${{ env.hashnode_username }}
+          COUNT: 12
+          FILE: "list-ordered.md"
+          STYLE: "list-ordered"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
