@@ -16,7 +16,22 @@
 ---
 
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://ayushi7rawat.hashnode.dev/build-a-translator-using-python-ckgyzmzuo029y20s17yezb0rp" title="Build a Translator using Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604115515617/9nvP4fDDa.png" alt="Build a Translator using Python"   /></a>
+<table><tr><td><a href="https://ayushi7rawat.hashnode.dev/how-to-develop-and-showcase-soft-skills-ckhcxg7ks02jtb7s1df4ae3el" title="How to Develop & Showcase Soft Skills"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605071230496/XGFxkKuyz.png" alt="How to Develop & Showcase Soft Skills"   /></a>
+<a href="https://ayushi7rawat.hashnode.dev/how-to-develop-and-showcase-soft-skills-ckhcxg7ks02jtb7s1df4ae3el" title="How to Develop & Showcase Soft Skills"><strong>How to Develop & Showcase Soft Skills</strong></a>
+<br/> Hello World, Hope you are doing well!
+Soft Skills play a vital role in Interviews and in shaping one's career.
+In this Blog article learn what soft skills are, examples of soft skills, why are they important, ways to develop soft skills and how to sh...</td><td><a href="https://ayushi7rawat.hashnode.dev/run-javascript-from-python-ckhbk0qp10473o0s1hwep3x4r" title="Run Javascript from Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604979433184/S8kxmDhij.png" alt="Run Javascript from Python"   /></a>
+<a href="https://ayushi7rawat.hashnode.dev/run-javascript-from-python-ckhbk0qp10473o0s1hwep3x4r" title="Run Javascript from Python"><strong>Run Javascript from Python</strong></a>
+<br/> Hello Reader, hope you and your family is in good health! 
+Javascript is a very powerful language, honestly, I am a baby in Js but I have always wondered, can Js integrated with Python. Recently, I was surfing the Internet and Js2Py module appeared i...</td><td><a href="https://ayushi7rawat.hashnode.dev/jokes-generator-with-python-ckh8wol2i07ois9s100jnhvaf" title="Jokes Generator with python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604827190300/0PbAaQFw5.png" alt="Jokes Generator with python"   /></a>
+<a href="https://ayushi7rawat.hashnode.dev/jokes-generator-with-python-ckh8wol2i07ois9s100jnhvaf" title="Jokes Generator with python"><strong>Jokes Generator with python</strong></a>
+<br/> In this Blog article, we will learn how to Create Jokes Generator with Python. We will see the implementation in python.
+Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
+You ca...</td><td><a href="https://ayushi7rawat.hashnode.dev/draw-heart-with-python-using-turtle-ckh5koe3g08x739s10qoy8o5j" title="Draw Heart with Python using Turtle"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604625635083/pfZ4hGjlo.png" alt="Draw Heart with Python using Turtle"   /></a>
+<a href="https://ayushi7rawat.hashnode.dev/draw-heart-with-python-using-turtle-ckh5koe3g08x739s10qoy8o5j" title="Draw Heart with Python using Turtle"><strong>Draw Heart with Python using Turtle</strong></a>
+<br/> In this Blog article, we will learn how to Create a heart with Turtle, we will see the implementation in Python.
+Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
+You can refer ...</td></tr><tr><td><a href="https://ayushi7rawat.hashnode.dev/build-a-translator-using-python-ckgyzmzuo029y20s17yezb0rp" title="Build a Translator using Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604115515617/9nvP4fDDa.png" alt="Build a Translator using Python"   /></a>
 <a href="https://ayushi7rawat.hashnode.dev/build-a-translator-using-python-ckgyzmzuo029y20s17yezb0rp" title="Build a Translator using Python"><strong>Build a Translator using Python</strong></a>
 <br/> In this Blog article, we will learn how to Create a Translator . We will see the implementation in python.
 Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
@@ -50,20 +65,5 @@ De...</td><td><a href="https://ayushi7rawat.hashnode.dev/email-slicer-with-pytho
 <br/> In this Blog article, we will see how to slice any email into username and domain. We will see the implementation in python. 
 You can refer to my YouTube video tutorial for better Understanding
 https://www.youtube.com/watch?v=SrvqNAZ2Mh4
-Repository f...</td></tr><tr><td><a href="https://ayushi7rawat.hashnode.dev/the-ultimate-python-resource-hub-ckg8uz23501vud6s1bqamapuy" title="The Ultimate Python Resource hub"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602560500131/zjnHYYioI.png" alt="The Ultimate Python Resource hub"   /></a>
-<a href="https://ayushi7rawat.hashnode.dev/the-ultimate-python-resource-hub-ckg8uz23501vud6s1bqamapuy" title="The Ultimate Python Resource hub"><strong>The Ultimate Python Resource hub</strong></a>
-<br/> A curated list of Ultimate Python resources is here! (If you are getting started with #Python or a senior Python developer, you wouldn't wanna miss this) 😄
-A lot of people have been recently asking me about python books, courses to refer and other r...</td><td><a href="https://ayushi7rawat.hashnode.dev/convert-any-py-to-exe-with-python-ckg4kka7x04sye9s1b3azgvcs" title="Convert any .py to .exe with python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602214165961/YrmuUapxQ.png" alt="Convert any .py to .exe with python"   /></a>
-<a href="https://ayushi7rawat.hashnode.dev/convert-any-py-to-exe-with-python-ckg4kka7x04sye9s1b3azgvcs" title="Convert any .py to .exe with python"><strong>Convert any .py to .exe with python</strong></a>
-<br/> When you create a python program and you want to share it with the world and you want them to run your script without having to install python. You can do this by converting the .py file to .exe file. In this article, I will show you how you can do i...</td><td><a href="https://ayushi7rawat.hashnode.dev/how-to-generate-qr-code-using-python-ckfzkiohp000aots122qr7uey" title="How to generate QR Code using Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602088013794/anZ7IBrIM.png" alt="How to generate QR Code using Python"   /></a>
-<a href="https://ayushi7rawat.hashnode.dev/how-to-generate-qr-code-using-python-ckfzkiohp000aots122qr7uey" title="How to generate QR Code using Python"><strong>How to generate QR Code using Python</strong></a>
-<br/> You all must have heard about or seen a lot of  QR codes, I was thinking to create one for my blogging website and I decided to do the same with python. How cool right?
-Do you wish to know how to create one? Here's how you can do it!
-You can also ref...</td><td><a href="https://ayushi7rawat.hashnode.dev/create-a-digital-clock-with-python-ckfxfc1to02r20es173u69x91" title="Create A Digital Clock with Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1601949877754/EwsyxuiU_.png" alt="Create A Digital Clock with Python"   /></a>
-<a href="https://ayushi7rawat.hashnode.dev/create-a-digital-clock-with-python-ckfxfc1to02r20es173u69x91" title="Create A Digital Clock with Python"><strong>Create A Digital Clock with Python</strong></a>
-<br/> Hi everyone,
-In this tutorial, I am going to teach you how to build your own digital clock with Python. We will use Tkinter to do the same.
-You can refer to my YouTube video tutorial for a better understanding.
-https://youtu.be/Cw206ZAUW6Y
-Repository...</td></tr></table>
+Repository f...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
