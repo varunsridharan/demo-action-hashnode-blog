@@ -21,6 +21,7 @@ jobs:
         with:
           USERNAME: ${{ env.hashnode_username }}
           COUNT: ${{ env.count }}
+          BLOG_URL: "https://blog.svarun.dev"
           FILE: "blog.md"
           STYLE: "blog"
         env:
