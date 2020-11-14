@@ -13,10 +13,13 @@
 
 ---
 
+
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="/how-to-develop-and-showcase-soft-skills" title="How to Develop & Showcase Soft Skills"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605071230496/XGFxkKuyz.png" alt="How to Develop & Showcase Soft Skills" width="250px" align="left" /></a>
 <a href="/how-to-develop-and-showcase-soft-skills" title="How to Develop & Showcase Soft Skills"><strong>How to Develop & Showcase Soft Skills</strong></a>
+<br/>
+<var><img src="https://raw.githubusercontent.com/varunsridharan/action-hashnode-blog/main/icons/comment.svg" width="15px"/> 22</var> 
 <br/> Hello World, Hope you are doing well!
 Soft Skills play a vital role in Interviews and in shaping one's career.
 In this Blog article learn what soft skills are, examples of soft skills, why are they important, ways to develop soft skills and how to sh... </p> <br/> <br/>
