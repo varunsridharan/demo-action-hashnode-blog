@@ -16,54 +16,47 @@
 ---
 
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="/how-to-develop-and-showcase-soft-skills" title="How to Develop & Showcase Soft Skills"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605071230496/XGFxkKuyz.png" alt="How to Develop & Showcase Soft Skills"   /></a>
-<a href="/how-to-develop-and-showcase-soft-skills" title="How to Develop & Showcase Soft Skills"><strong>How to Develop & Showcase Soft Skills</strong></a>
-<br/> Hello World, Hope you are doing well!
-Soft Skills play a vital role in Interviews and in shaping one's career.
-In this Blog article learn what soft skills are, examples of soft skills, why are they important, ways to develop soft skills and how to sh...</td><td><a href="/run-javascript-from-python" title="Run Javascript from Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604979433184/S8kxmDhij.png" alt="Run Javascript from Python"   /></a>
-<a href="/run-javascript-from-python" title="Run Javascript from Python"><strong>Run Javascript from Python</strong></a>
-<br/> Hello Reader, hope you and your family is in good health! 
-Javascript is a very powerful language, honestly, I am a baby in Js but I have always wondered, can Js integrated with Python. Recently, I was surfing the Internet and Js2Py module appeared i...</td><td><a href="/jokes-generator-with-python" title="Jokes Generator with python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604827190300/0PbAaQFw5.png" alt="Jokes Generator with python"   /></a>
-<a href="/jokes-generator-with-python" title="Jokes Generator with python"><strong>Jokes Generator with python</strong></a>
-<br/> In this Blog article, we will learn how to Create Jokes Generator with Python. We will see the implementation in python.
-Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
-You ca...</td><td><a href="/draw-heart-with-python-using-turtle" title="Draw Heart with Python using Turtle"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604625635083/pfZ4hGjlo.png" alt="Draw Heart with Python using Turtle"   /></a>
-<a href="/draw-heart-with-python-using-turtle" title="Draw Heart with Python using Turtle"><strong>Draw Heart with Python using Turtle</strong></a>
-<br/> In this Blog article, we will learn how to Create a heart with Turtle, we will see the implementation in Python.
-Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
-You can refer ...</td></tr><tr><td><a href="/build-a-translator-using-python" title="Build a Translator using Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604115515617/9nvP4fDDa.png" alt="Build a Translator using Python"   /></a>
-<a href="/build-a-translator-using-python" title="Build a Translator using Python"><strong>Build a Translator using Python</strong></a>
-<br/> In this Blog article, we will learn how to Create a Translator . We will see the implementation in python.
-Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
-You can refer to my ...</td><td><a href="/create-url-shortner-with-python" title="Create URL Shortner with Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603964120390/f0kqQvV-V.png" alt="Create URL Shortner with Python"   /></a>
-<a href="/create-url-shortner-with-python" title="Create URL Shortner with Python"><strong>Create URL Shortner with Python</strong></a>
-<br/> In this Blog article, we will learn how to Create a URL Shortner. URL shortening is the process of reducing the length of the URL. There are many messaging platforms where the length of the message is limited.  Here, anyone can face the issue in shar...</td><td><a href="/create-gif-converter-using-python" title="Create GIF Converter Using Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603345134596/tg-2IKZXf.png" alt="Create GIF Converter Using Python"   /></a>
-<a href="/create-gif-converter-using-python" title="Create GIF Converter Using Python"><strong>Create GIF Converter Using Python</strong></a>
-<br/> In this Blog article, we will learn how to Convert a Video into GIF . We will see the implementation in python. 
-Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
-You can refer ...</td><td><a href="/create-desktop-notifier-using-python" title="Create Desktop Notifier using Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603420759058/d4R1vI66E.png" alt="Create Desktop Notifier using Python"   /></a>
-<a href="/create-desktop-notifier-using-python" title="Create Desktop Notifier using Python"><strong>Create Desktop Notifier using Python</strong></a>
-<br/> In this Blog article, we will learn how to send Desktop notifications . We will see the implementation in Python. 
-Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
-You can refe...</td></tr><tr><td><a href="/screenshot-taker-with-python" title="Screenshot Taker with Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603165076375/DsnWhjNWK.png" alt="Screenshot Taker with Python"   /></a>
-<a href="/screenshot-taker-with-python" title="Screenshot Taker with Python"><strong>Screenshot Taker with Python</strong></a>
-<br/> In this Blog article, we will see how to Capture a Screenshot . We will see the implementation in python. 
-Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
-You can refer to my ...</td><td><a href="/youtube-video-downloader-using-python" title="YouTube Video Downloader using Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602828087282/MS14dCLM2.png" alt="YouTube Video Downloader using Python"   /></a>
-<a href="/youtube-video-downloader-using-python" title="YouTube Video Downloader using Python"><strong>YouTube Video Downloader using Python</strong></a>
-<br/> In this Blog article, we will see how to download YouTube video. We will see the implementation in python. 
-Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
-You can refer to my...</td><td><a href="/become-a-better-programmer" title="Become a Better Programmer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602843096737/S270uYtBt.png" alt="Become a Better Programmer"   /></a>
-<a href="/become-a-better-programmer" title="Become a Better Programmer"><strong>Become a Better Programmer</strong></a>
-<br/> Hi, Hope you are doing well!
-Here are 50 Tips to become a better programmer, overcome the common problems beginners face and boost your learning process. 😄✔️⭐️
+<table><tr><td><a href="https://varunsridharan.hashnode.dev/creating-and-working-with-actionyml-ckhnbklhw06q09ms10t9s93d0" title="Creating and working with action.yml"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605698146904/BLZrCYKoe.jpeg" alt="Creating and working with action.yml"   /></a>
+<a href="https://varunsridharan.hashnode.dev/creating-and-working-with-actionyml-ckhnbklhw06q09ms10t9s93d0" title="Creating and working with action.yml"><strong>Creating and working with action.yml</strong></a>
+<br/> GitHub actions, irrespective of the chosen environment, require a metadata file, which contains information such as title, description, author, etc., and also defines the inputs, outputs and entry-point for the action. GitHub uses this file to unders...</td><td><a href="https://varunsridharan.hashnode.dev/the-why-how-and-creation-of-github-actions-ckhluze5o052fp7s1624uaiv4" title="The why, how and creation of GitHub actions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605607970631/N02x7qKpH.jpeg" alt="The why, how and creation of GitHub actions"   /></a>
+<a href="https://varunsridharan.hashnode.dev/the-why-how-and-creation-of-github-actions-ckhluze5o052fp7s1624uaiv4" title="The why, how and creation of GitHub actions"><strong>The why, how and creation of GitHub actions</strong></a>
+<br/> Why use Github actions?
+Much of software development involves repetitive tasks, which consumes a major chunk of time. This time can be more efficiently used by the developers in actually producing code, instead of on these repetitive tasks, which can...</td><td><a href="https://varunsridharan.hashnode.dev/what-is-github-action-ckhkg1lpo00wqzms16kdhbx1b" title="What is Github Action?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605524472097/C_MFLL4aU.jpeg" alt="What is Github Action?"   /></a>
+<a href="https://varunsridharan.hashnode.dev/what-is-github-action-ckhkg1lpo00wqzms16kdhbx1b" title="What is Github Action?"><strong>What is Github Action?</strong></a>
+<br/> The Github Action is a process that allows you to automate your software development workflow by making use of the built-in CI/CD mechanism. CI/CD (Continuous Integration, Continuous Deployment, and Delivery) is a process that reduces the repetitive ...</td><td><a href="https://varunsridharan.hashnode.dev/github-markdown-style-guide-ckhiy7pke003j8vs12mu84rnf" title="Github Markdown Style Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605429879118/twXNFDnKZ.png" alt="Github Markdown Style Guide"   /></a>
+<a href="https://varunsridharan.hashnode.dev/github-markdown-style-guide-ckhiy7pke003j8vs12mu84rnf" title="Github Markdown Style Guide"><strong>Github Markdown Style Guide</strong></a>
+<br/> In the previous post in this series, we learned how to write markdown in Github and its exclusive features. 
+In this post, we are going to learn how we can style our README.md
+Text Align
+Using align="left" attribute text can be aligned easily and it ...</td></tr><tr><td><a href="https://varunsridharan.hashnode.dev/github-markdown-syntax-guide-ckhhrps2i01clb0s150qk9495" title="Github Markdown Syntax Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605362981730/wDYGLi6rK.png" alt="Github Markdown Syntax Guide"   /></a>
+<a href="https://varunsridharan.hashnode.dev/github-markdown-syntax-guide-ckhhrps2i01clb0s150qk9495" title="Github Markdown Syntax Guide"><strong>Github Markdown Syntax Guide</strong></a>
+<br/> Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown.
+Github has created its own Flavor of Mark...</td><td><a href="https://varunsridharan.hashnode.dev/time-based-website-theme-using-javascript-ckhgbndh70b4szms159hthunm" title="Time-Based Website Theme Using Javascript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605275197435/vSBRaAOQ9.jpeg" alt="Time-Based Website Theme Using Javascript"   /></a>
+<a href="https://varunsridharan.hashnode.dev/time-based-website-theme-using-javascript-ckhgbndh70b4szms159hthunm" title="Time-Based Website Theme Using Javascript"><strong>Time-Based Website Theme Using Javascript</strong></a>
+<br/> In this post, we are going to learn how to load stylesheets on a website based on the current time of the day.  This can be useful if you are planning to add dark mode support which can be auto-enabled. 
 
-Set short term goals
-Understand what the problem says, Try asking the right question.
-De...</td><td><a href="/email-slicer-with-python" title="Email Slicer with Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602738093985/mBJZ50TrS.png" alt="Email Slicer with Python"   /></a>
-<a href="/email-slicer-with-python" title="Email Slicer with Python"><strong>Email Slicer with Python</strong></a>
-<br/> In this Blog article, we will see how to slice any email into username and domain. We will see the implementation in python. 
-You can refer to my YouTube video tutorial for better Understanding
-https://www.youtube.com/watch?v=SrvqNAZ2Mh4
-Repository f...</td></tr></table>
+First, add a basic stylesheet which renders a...</td><td><a href="https://varunsridharan.hashnode.dev/removing-racist-terms-in-tech-ckhewwc4v06gk0js16hjlfp11" title="Removing racist terms in tech"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605189776764/ppbDa7vra.webp" alt="Removing racist terms in tech"   /></a>
+<a href="https://varunsridharan.hashnode.dev/removing-racist-terms-in-tech-ckhewwc4v06gk0js16hjlfp11" title="Removing racist terms in tech"><strong>Removing racist terms in tech</strong></a>
+<br/> This post is purely to educate why we need to remove Racists terms in the IT industry and provides some alternate terms
+I am not here to comment about the "Black Lives Matter" movement or the death of George Floyd
+
+On May 25, 2020, A Guy Named George...</td><td><a href="https://varunsridharan.hashnode.dev/adding-jetbrains-apps-to-context-menu-ckhdhivik008f0js1d2b56pgi" title="Adding Jetbrains Apps To Context Menu"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605103643663/mevK-S8HE.png" alt="Adding Jetbrains Apps To Context Menu"   /></a>
+<a href="https://varunsridharan.hashnode.dev/adding-jetbrains-apps-to-context-menu-ckhdhivik008f0js1d2b56pgi" title="Adding Jetbrains Apps To Context Menu"><strong>Adding Jetbrains Apps To Context Menu</strong></a>
+<br/> I have been using PHPStorm. for a few years now. and over the years I found it very hard to open a project.  as I need to fire-up the PHPStorm App first then using the File menu I got to open the project. 
+For it, I was not that easy as I keep switch...</td></tr><tr><td><a href="https://varunsridharan.hashnode.dev/github-action-workflow-sync-or-sync-files-across-repositories-ckhbz49z00031tgs13zdk5ub5" title="Github Action - Workflow Sync | Sync Files Across Repositories"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605012562551/AIMwu7EWk.jpeg" alt="Github Action - Workflow Sync | Sync Files Across Repositories"   /></a>
+<a href="https://varunsridharan.hashnode.dev/github-action-workflow-sync-or-sync-files-across-repositories-ckhbz49z00031tgs13zdk5ub5" title="Github Action - Workflow Sync | Sync Files Across Repositories"><strong>Github Action - Workflow Sync | Sync Files Across Repositories</strong></a>
+<br/> This Github Action can come in handy when you have a lot of projects as I do. wherein some cases certain projects users action workflow which is common across projects. For example: Project 1 & Project 2 it can be a pain to keep all the workflow upda...</td><td><a href="https://varunsridharan.hashnode.dev/how-to-update-url-parameters-in-javascript-without-reloading-ckhalx1e500qoozs17a5x43dt" title="How To Update URL Parameters In Javascript Without Reloading?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604927318112/kJmGedACm.jpeg" alt="How To Update URL Parameters In Javascript Without Reloading?"   /></a>
+<a href="https://varunsridharan.hashnode.dev/how-to-update-url-parameters-in-javascript-without-reloading-ckhalx1e500qoozs17a5x43dt" title="How To Update URL Parameters In Javascript Without Reloading?"><strong>How To Update URL Parameters In Javascript Without Reloading?</strong></a>
+<br/> In this post, we are going to learn how to change URL Parameters on a page using javascript but without reloading the website. 
+Backstory
+When I saw websites updating their URL when loading content via Ajax. I was stunned & confused about how they ar...</td><td><a href="https://varunsridharan.hashnode.dev/dizzle-css-selector-library-ckh93hgmr002zyes1dq7vh3tl" title="Dizzle - CSS Selector Library"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604840838840/0YqG-oJi7.jpeg" alt="Dizzle - CSS Selector Library"   /></a>
+<a href="https://varunsridharan.hashnode.dev/dizzle-css-selector-library-ckh93hgmr002zyes1dq7vh3tl" title="Dizzle - CSS Selector Library"><strong>Dizzle - CSS Selector Library</strong></a>
+<br/> What is Dizzle?
+Dizzle turns CSS selectors into functions that test if elements match them. When searching for elements, testing is executed "from the top", similar to how browsers execute CSS selectors.
+Why I Created this library when jQuery/Sizzle ...</td><td><a href="https://varunsridharan.hashnode.dev/how-to-setup-deploy-key-in-github-repository-ckh7odrjh04frras11zfx7uvd" title="How To Setup Deploy 🔑 In Github Repository?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604752614935/ruLQIo7--.png" alt="How To Setup Deploy 🔑 In Github Repository?"   /></a>
+<a href="https://varunsridharan.hashnode.dev/how-to-setup-deploy-key-in-github-repository-ckh7odrjh04frras11zfx7uvd" title="How To Setup Deploy 🔑 In Github Repository?"><strong>How To Setup Deploy 🔑 In Github Repository?</strong></a>
+<br/> What is the Deploy key?
+Deploy key is an SSH key configured in your repository to grant read or write access without logging into your GitHub account.
+Why should I use it?
+Using Deploy Keys can come in handy when you don't want to login to your GitHu...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
