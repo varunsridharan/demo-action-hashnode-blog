@@ -15,36 +15,34 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="/how-to-develop-and-showcase-soft-skills" title="How to Develop & Showcase Soft Skills"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605071230496/XGFxkKuyz.png" alt="How to Develop & Showcase Soft Skills" width="250px" align="left" /></a>
-<a href="/how-to-develop-and-showcase-soft-skills" title="How to Develop & Showcase Soft Skills"><strong>How to Develop & Showcase Soft Skills</strong></a>
-<br/> Hello World, Hope you are doing well!
-Soft Skills play a vital role in Interviews and in shaping one's career.
-In this Blog article learn what soft skills are, examples of soft skills, why are they important, ways to develop soft skills and how to sh... </p> <br/> <br/>
+<a href="https://varunsridharan.hashnode.dev/creating-and-working-with-actionyml-ckhnbklhw06q09ms10t9s93d0" title="Creating and working with action.yml"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605698146904/BLZrCYKoe.jpeg" alt="Creating and working with action.yml" width="250px" align="left" /></a>
+<a href="https://varunsridharan.hashnode.dev/creating-and-working-with-actionyml-ckhnbklhw06q09ms10t9s93d0" title="Creating and working with action.yml"><strong>Creating and working with action.yml</strong></a>
+<br/> GitHub actions, irrespective of the chosen environment, require a metadata file, which contains information such as title, description, author, etc., and also defines the inputs, outputs and entry-point for the action. GitHub uses this file to unders... </p> <br/> <br/>
 <p align="left">
-<a href="/run-javascript-from-python" title="Run Javascript from Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604979433184/S8kxmDhij.png" alt="Run Javascript from Python" width="250px" align="left" /></a>
-<a href="/run-javascript-from-python" title="Run Javascript from Python"><strong>Run Javascript from Python</strong></a>
-<br/> Hello Reader, hope you and your family is in good health! 
-Javascript is a very powerful language, honestly, I am a baby in Js but I have always wondered, can Js integrated with Python. Recently, I was surfing the Internet and Js2Py module appeared i... </p> <br/> <br/>
+<a href="https://varunsridharan.hashnode.dev/the-why-how-and-creation-of-github-actions-ckhluze5o052fp7s1624uaiv4" title="The why, how and creation of GitHub actions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605607970631/N02x7qKpH.jpeg" alt="The why, how and creation of GitHub actions" width="250px" align="left" /></a>
+<a href="https://varunsridharan.hashnode.dev/the-why-how-and-creation-of-github-actions-ckhluze5o052fp7s1624uaiv4" title="The why, how and creation of GitHub actions"><strong>The why, how and creation of GitHub actions</strong></a>
+<br/> Why use Github actions?
+Much of software development involves repetitive tasks, which consumes a major chunk of time. This time can be more efficiently used by the developers in actually producing code, instead of on these repetitive tasks, which can... </p> <br/> <br/>
 <p align="left">
-<a href="/jokes-generator-with-python" title="Jokes Generator with python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604827190300/0PbAaQFw5.png" alt="Jokes Generator with python" width="250px" align="left" /></a>
-<a href="/jokes-generator-with-python" title="Jokes Generator with python"><strong>Jokes Generator with python</strong></a>
-<br/> In this Blog article, we will learn how to Create Jokes Generator with Python. We will see the implementation in python.
-Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
-You ca... </p> <br/> <br/>
+<a href="https://varunsridharan.hashnode.dev/what-is-github-action-ckhkg1lpo00wqzms16kdhbx1b" title="What is Github Action?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605524472097/C_MFLL4aU.jpeg" alt="What is Github Action?" width="250px" align="left" /></a>
+<a href="https://varunsridharan.hashnode.dev/what-is-github-action-ckhkg1lpo00wqzms16kdhbx1b" title="What is Github Action?"><strong>What is Github Action?</strong></a>
+<br/> The Github Action is a process that allows you to automate your software development workflow by making use of the built-in CI/CD mechanism. CI/CD (Continuous Integration, Continuous Deployment, and Delivery) is a process that reduces the repetitive ... </p> <br/> <br/>
 <p align="left">
-<a href="/draw-heart-with-python-using-turtle" title="Draw Heart with Python using Turtle"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604625635083/pfZ4hGjlo.png" alt="Draw Heart with Python using Turtle" width="250px" align="left" /></a>
-<a href="/draw-heart-with-python-using-turtle" title="Draw Heart with Python using Turtle"><strong>Draw Heart with Python using Turtle</strong></a>
-<br/> In this Blog article, we will learn how to Create a heart with Turtle, we will see the implementation in Python.
-Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
-You can refer ... </p> <br/> <br/>
+<a href="https://varunsridharan.hashnode.dev/github-markdown-style-guide-ckhiy7pke003j8vs12mu84rnf" title="Github Markdown Style Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605429879118/twXNFDnKZ.png" alt="Github Markdown Style Guide" width="250px" align="left" /></a>
+<a href="https://varunsridharan.hashnode.dev/github-markdown-style-guide-ckhiy7pke003j8vs12mu84rnf" title="Github Markdown Style Guide"><strong>Github Markdown Style Guide</strong></a>
+<br/> In the previous post in this series, we learned how to write markdown in Github and its exclusive features. 
+In this post, we are going to learn how we can style our README.md
+Text Align
+Using align="left" attribute text can be aligned easily and it ... </p> <br/> <br/>
 <p align="left">
-<a href="/build-a-translator-using-python" title="Build a Translator using Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604115515617/9nvP4fDDa.png" alt="Build a Translator using Python" width="250px" align="left" /></a>
-<a href="/build-a-translator-using-python" title="Build a Translator using Python"><strong>Build a Translator using Python</strong></a>
-<br/> In this Blog article, we will learn how to Create a Translator . We will see the implementation in python.
-Repository for Ultimate Resource in python. Drop a star if you find it useful! Got anything to add? Open a PR on the same!
-You can refer to my ... </p> <br/> <br/>
+<a href="https://varunsridharan.hashnode.dev/github-markdown-syntax-guide-ckhhrps2i01clb0s150qk9495" title="Github Markdown Syntax Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605362981730/wDYGLi6rK.png" alt="Github Markdown Syntax Guide" width="250px" align="left" /></a>
+<a href="https://varunsridharan.hashnode.dev/github-markdown-syntax-guide-ckhhrps2i01clb0s150qk9495" title="Github Markdown Syntax Guide"><strong>Github Markdown Syntax Guide</strong></a>
+<br/> Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown.
+Github has created its own Flavor of Mark... </p> <br/> <br/>
 <p align="left">
-<a href="/create-url-shortner-with-python" title="Create URL Shortner with Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603964120390/f0kqQvV-V.png" alt="Create URL Shortner with Python" width="250px" align="left" /></a>
-<a href="/create-url-shortner-with-python" title="Create URL Shortner with Python"><strong>Create URL Shortner with Python</strong></a>
-<br/> In this Blog article, we will learn how to Create a URL Shortner. URL shortening is the process of reducing the length of the URL. There are many messaging platforms where the length of the message is limited.  Here, anyone can face the issue in shar... </p> <br/> <br/>
+<a href="https://varunsridharan.hashnode.dev/time-based-website-theme-using-javascript-ckhgbndh70b4szms159hthunm" title="Time-Based Website Theme Using Javascript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605275197435/vSBRaAOQ9.jpeg" alt="Time-Based Website Theme Using Javascript" width="250px" align="left" /></a>
+<a href="https://varunsridharan.hashnode.dev/time-based-website-theme-using-javascript-ckhgbndh70b4szms159hthunm" title="Time-Based Website Theme Using Javascript"><strong>Time-Based Website Theme Using Javascript</strong></a>
+<br/> In this post, we are going to learn how to load stylesheets on a website based on the current time of the day.  This can be useful if you are planning to add dark mode support which can be auto-enabled. 
+
+First, add a basic stylesheet which renders a... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
