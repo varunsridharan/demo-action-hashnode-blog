@@ -15,6 +15,11 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://varunsridharan.hashnode.dev/creating-github-action-using-nodejs-with-github-api-ckhq5x2og0b5uefs12l8j6l3u" title="Creating Github Action Using NodeJS With Github API"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605868646865/1LzZ4cPoi.jpeg" alt="Creating Github Action Using NodeJS With Github API" width="250px" align="left" /></a>
+<a href="https://varunsridharan.hashnode.dev/creating-github-action-using-nodejs-with-github-api-ckhq5x2og0b5uefs12l8j6l3u" title="Creating Github Action Using NodeJS With Github API"><strong>Creating Github Action Using NodeJS With Github API</strong></a>
+<br/> In the previous blog titled How To Create A GitHub Action In NodeJS we understood on who to create Github Actions using NodeJS.
+In this post we will learn how to create github action which interacts with Github API using actions/core AND actions/gith... </p> <br/> <br/>
+<p align="left">
 <a href="https://varunsridharan.hashnode.dev/how-to-create-a-github-action-in-nodejs-ckhotkjx90515eks1gdzhhs7w" title="How To Create A GitHub Action In NodeJS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605786708556/n9V0wNfk_.jpeg" alt="How To Create A GitHub Action In NodeJS" width="250px" align="left" /></a>
 <a href="https://varunsridharan.hashnode.dev/how-to-create-a-github-action-in-nodejs-ckhotkjx90515eks1gdzhhs7w" title="How To Create A GitHub Action In NodeJS"><strong>How To Create A GitHub Action In NodeJS</strong></a>
 <br/> This guide uses the GitHub Actions Toolkit Nodejs module to speed up development. For more information, see the actions/toolkit repository.
@@ -40,9 +45,4 @@ Much of software development involves repetitive tasks, which consumes a major c
 In this post, we are going to learn how we can style our README.md
 Text Align
 Using align="left" attribute text can be aligned easily and it ... </p> <br/> <br/>
-<p align="left">
-<a href="https://varunsridharan.hashnode.dev/github-markdown-syntax-guide-ckhhrps2i01clb0s150qk9495" title="Github Markdown Syntax Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605362981730/wDYGLi6rK.png" alt="Github Markdown Syntax Guide" width="250px" align="left" /></a>
-<a href="https://varunsridharan.hashnode.dev/github-markdown-syntax-guide-ckhhrps2i01clb0s150qk9495" title="Github Markdown Syntax Guide"><strong>Github Markdown Syntax Guide</strong></a>
-<br/> Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown.
-Github has created its own Flavor of Mark... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
