@@ -15,6 +15,10 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://varunsridharan.hashnode.dev/how-to-create-a-github-action-in-docker-ckhrmkgdu04lus6s1f3li1xzv" title="How To Create A Github Action In Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605959031974/bqCVC1R-2.jpeg" alt="How To Create A Github Action In Docker" width="250px" align="right" /></a>
+<a href="https://varunsridharan.hashnode.dev/how-to-create-a-github-action-in-docker-ckhrmkgdu04lus6s1f3li1xzv" title="How To Create A Github Action In Docker"><strong>How To Create A Github Action In Docker</strong></a>
+<br/> In the previous blog, we have learnt how to create Github actions using Node.js. In this blog we will learn how to build a Github action using Docker. This will be similar to the simple action in Node.js, which will greet the user and set an output v... </p> <br/> <br/>
+<p align="left">
 <a href="https://varunsridharan.hashnode.dev/creating-github-action-using-nodejs-with-github-api-ckhq5x2og0b5uefs12l8j6l3u" title="Creating Github Action Using NodeJS With Github API"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605868646865/1LzZ4cPoi.jpeg" alt="Creating Github Action Using NodeJS With Github API" width="250px" align="right" /></a>
 <a href="https://varunsridharan.hashnode.dev/creating-github-action-using-nodejs-with-github-api-ckhq5x2og0b5uefs12l8j6l3u" title="Creating Github Action Using NodeJS With Github API"><strong>Creating Github Action Using NodeJS With Github API</strong></a>
 <br/> In the previous blog titled How To Create A GitHub Action In NodeJS we understood on who to create Github Actions using NodeJS.
@@ -38,11 +42,4 @@ Much of software development involves repetitive tasks, which consumes a major c
 <a href="https://varunsridharan.hashnode.dev/what-is-github-action-ckhkg1lpo00wqzms16kdhbx1b" title="What is Github Action?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605524472097/C_MFLL4aU.jpeg" alt="What is Github Action?" width="250px" align="right" /></a>
 <a href="https://varunsridharan.hashnode.dev/what-is-github-action-ckhkg1lpo00wqzms16kdhbx1b" title="What is Github Action?"><strong>What is Github Action?</strong></a>
 <br/> The Github Action is a process that allows you to automate your software development workflow by making use of the built-in CI/CD mechanism. CI/CD (Continuous Integration, Continuous Deployment, and Delivery) is a process that reduces the repetitive ... </p> <br/> <br/>
-<p align="left">
-<a href="https://varunsridharan.hashnode.dev/github-markdown-style-guide-ckhiy7pke003j8vs12mu84rnf" title="Github Markdown Style Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605429879118/twXNFDnKZ.png" alt="Github Markdown Style Guide" width="250px" align="right" /></a>
-<a href="https://varunsridharan.hashnode.dev/github-markdown-style-guide-ckhiy7pke003j8vs12mu84rnf" title="Github Markdown Style Guide"><strong>Github Markdown Style Guide</strong></a>
-<br/> In the previous post in this series, we learned how to write markdown in Github and its exclusive features. 
-In this post, we are going to learn how we can style our README.md
-Text Align
-Using align="left" attribute text can be aligned easily and it ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
