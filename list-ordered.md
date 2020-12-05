@@ -14,10 +14,10 @@
 ---
 
 <!-- HASHNODE_BLOG:START -->
-1. [How To Create A Github Action In Docker](https://varunsridharan.hashnode.dev/how-to-create-a-github-action-in-docker-ckhrmkgdu04lus6s1f3li1xzv)
-1. [Creating Github Action Using NodeJS With Github API](https://varunsridharan.hashnode.dev/creating-github-action-using-nodejs-with-github-api-ckhq5x2og0b5uefs12l8j6l3u)
-1. [How To Create A GitHub Action In NodeJS](https://varunsridharan.hashnode.dev/how-to-create-a-github-action-in-nodejs-ckhotkjx90515eks1gdzhhs7w)
-1. [Creating and working with action.yml](https://varunsridharan.hashnode.dev/creating-and-working-with-actionyml-ckhnbklhw06q09ms10t9s93d0)
-1. [The why, how and creation of GitHub actions](https://varunsridharan.hashnode.dev/the-why-how-and-creation-of-github-actions-ckhluze5o052fp7s1624uaiv4)
-1. [What is Github Action?](https://varunsridharan.hashnode.dev/what-is-github-action-ckhkg1lpo00wqzms16kdhbx1b)
+1. [Work From Home Essentials](https://ayushi7rawat.hashnode.dev/work-from-home-essentials-cki9snmyq03lmxfs18arme3wd)
+1. [How to Develop a STRATEGY?](https://ayushi7rawat.hashnode.dev/how-to-develop-a-strategy-cki870bju00umhps126m3cwas)
+1. [Automate Notion with Python](https://ayushi7rawat.hashnode.dev/automate-notion-with-python-cki79qpun00o3nts15lad3v54)
+1. [Unzip any File Using Python](https://ayushi7rawat.hashnode.dev/unzip-any-file-using-python-cki5im3yc09h5ans139g576va)
+1. [Find IP Address of any Website Using Python](https://ayushi7rawat.hashnode.dev/find-ip-address-of-any-website-using-python-cki4dutcc04gsbos19kp021uz)
+1. [Create a Random Password Generator using Python](https://ayushi7rawat.hashnode.dev/create-a-random-password-generator-using-python-cki2zey5300h0dts12agr1v2z)
 <!-- HASHNODE_BLOG:END -->
