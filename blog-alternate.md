@@ -16,31 +16,43 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://varunsridharan.hashnode.dev/how-to-create-a-github-action-in-docker-ckhrmkgdu04lus6s1f3li1xzv" title="How To Create A Github Action In Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605959031974/bqCVC1R-2.jpeg" alt="How To Create A Github Action In Docker" width="250px" align="left" /></a>
-<a href="https://varunsridharan.hashnode.dev/how-to-create-a-github-action-in-docker-ckhrmkgdu04lus6s1f3li1xzv" title="How To Create A Github Action In Docker"><strong>How To Create A Github Action In Docker</strong></a>
-<br/> In the previous blog, we have learnt how to create Github actions using Node.js. In this blog we will learn how to build a Github action using Docker. This will be similar to the simple action in Node.js, which will greet the user and set an output v... </p> <br/> <br/>
-<p align="left">
-<a href="https://varunsridharan.hashnode.dev/creating-github-action-using-nodejs-with-github-api-ckhq5x2og0b5uefs12l8j6l3u" title="Creating Github Action Using NodeJS With Github API"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605868646865/1LzZ4cPoi.jpeg" alt="Creating Github Action Using NodeJS With Github API" width="250px" align="right" /></a>
-<a href="https://varunsridharan.hashnode.dev/creating-github-action-using-nodejs-with-github-api-ckhq5x2og0b5uefs12l8j6l3u" title="Creating Github Action Using NodeJS With Github API"><strong>Creating Github Action Using NodeJS With Github API</strong></a>
-<br/> In the previous blog titled How To Create A GitHub Action In NodeJS we understood on who to create Github Actions using NodeJS.
-In this post we will learn how to create github action which interacts with Github API using actions/core AND actions/gith... </p> <br/> <br/>
-<p align="left">
-<a href="https://varunsridharan.hashnode.dev/how-to-create-a-github-action-in-nodejs-ckhotkjx90515eks1gdzhhs7w" title="How To Create A GitHub Action In NodeJS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605786708556/n9V0wNfk_.jpeg" alt="How To Create A GitHub Action In NodeJS" width="250px" align="left" /></a>
-<a href="https://varunsridharan.hashnode.dev/how-to-create-a-github-action-in-nodejs-ckhotkjx90515eks1gdzhhs7w" title="How To Create A GitHub Action In NodeJS"><strong>How To Create A GitHub Action In NodeJS</strong></a>
-<br/> This guide uses the GitHub Actions Toolkit Nodejs module to speed up development. For more information, see the actions/toolkit repository.
+<a href="https://ayushi7rawat.hashnode.dev/work-from-home-essentials-cki9snmyq03lmxfs18arme3wd" title="Work From Home Essentials"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607057563971/2Fb0dBJ0E.png" alt="Work From Home Essentials" width="250px" align="left" /></a>
+<a href="https://ayushi7rawat.hashnode.dev/work-from-home-essentials-cki9snmyq03lmxfs18arme3wd" title="Work From Home Essentials"><strong>Work From Home Essentials</strong></a>
+<br/> Working from home has become the new normal and It is a must to ensure a healthy work-life balance. Here are few essential tips which can help you! 
+Dedicated Workspace!
 
-To ensure your JavaScript actions are compatible with all GitHub-hosted runners ( Ubuntu, Windows, & macOS ),... </p> <br/> <br/>
+Although you're working from home, You must have a dedicated Workspace. Start w... </p> <br/> <br/>
 <p align="left">
-<a href="https://varunsridharan.hashnode.dev/creating-and-working-with-actionyml-ckhnbklhw06q09ms10t9s93d0" title="Creating and working with action.yml"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605698146904/BLZrCYKoe.jpeg" alt="Creating and working with action.yml" width="250px" align="right" /></a>
-<a href="https://varunsridharan.hashnode.dev/creating-and-working-with-actionyml-ckhnbklhw06q09ms10t9s93d0" title="Creating and working with action.yml"><strong>Creating and working with action.yml</strong></a>
-<br/> GitHub actions, irrespective of the chosen environment, require a metadata file, which contains information such as title, description, author, etc., and also defines the inputs, outputs and entry-point for the action. GitHub uses this file to unders... </p> <br/> <br/>
+<a href="https://ayushi7rawat.hashnode.dev/how-to-develop-a-strategy-cki870bju00umhps126m3cwas" title="How to Develop a STRATEGY?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606920237771/cU4tgjMcp.png" alt="How to Develop a STRATEGY?" width="250px" align="right" /></a>
+<a href="https://ayushi7rawat.hashnode.dev/how-to-develop-a-strategy-cki870bju00umhps126m3cwas" title="How to Develop a STRATEGY?"><strong>How to Develop a STRATEGY?</strong></a>
+<br/> Hello world!
+Strategy is the art of planning to achieve a long-term or overall goals. In this Blog article, we will learn how to develop a Strategy with the help of five Questions!
+Let's get Started!
+WHERE ARE WE?
+
+📌 The first thing is to analyze wh... </p> <br/> <br/>
 <p align="left">
-<a href="https://varunsridharan.hashnode.dev/the-why-how-and-creation-of-github-actions-ckhluze5o052fp7s1624uaiv4" title="The why, how and creation of GitHub actions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605607970631/N02x7qKpH.jpeg" alt="The why, how and creation of GitHub actions" width="250px" align="left" /></a>
-<a href="https://varunsridharan.hashnode.dev/the-why-how-and-creation-of-github-actions-ckhluze5o052fp7s1624uaiv4" title="The why, how and creation of GitHub actions"><strong>The why, how and creation of GitHub actions</strong></a>
-<br/> Why use Github actions?
-Much of software development involves repetitive tasks, which consumes a major chunk of time. This time can be more efficiently used by the developers in actually producing code, instead of on these repetitive tasks, which can... </p> <br/> <br/>
+<a href="https://ayushi7rawat.hashnode.dev/automate-notion-with-python-cki79qpun00o3nts15lad3v54" title="Automate Notion with Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606904367385/Q34Sl-6-v.png" alt="Automate Notion with Python" width="250px" align="left" /></a>
+<a href="https://ayushi7rawat.hashnode.dev/automate-notion-with-python-cki79qpun00o3nts15lad3v54" title="Automate Notion with Python"><strong>Automate Notion with Python</strong></a>
+<br/> Hello world!
+Have you heard about Notion? Do you use Notion? 
+Notion is a super-clean and deceptively minimalist note-taking app. I am still learning how to use Notion because I have recently started using it, and If you are a regular reader you must... </p> <br/> <br/>
 <p align="left">
-<a href="https://varunsridharan.hashnode.dev/what-is-github-action-ckhkg1lpo00wqzms16kdhbx1b" title="What is Github Action?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605524472097/C_MFLL4aU.jpeg" alt="What is Github Action?" width="250px" align="right" /></a>
-<a href="https://varunsridharan.hashnode.dev/what-is-github-action-ckhkg1lpo00wqzms16kdhbx1b" title="What is Github Action?"><strong>What is Github Action?</strong></a>
-<br/> The Github Action is a process that allows you to automate your software development workflow by making use of the built-in CI/CD mechanism. CI/CD (Continuous Integration, Continuous Deployment, and Delivery) is a process that reduces the repetitive ... </p> <br/> <br/>
+<a href="https://ayushi7rawat.hashnode.dev/unzip-any-file-using-python-cki5im3yc09h5ans139g576va" title="Unzip any File Using Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606739061417/8i0TNLnRD.png" alt="Unzip any File Using Python" width="250px" align="right" /></a>
+<a href="https://ayushi7rawat.hashnode.dev/unzip-any-file-using-python-cki5im3yc09h5ans139g576va" title="Unzip any File Using Python"><strong>Unzip any File Using Python</strong></a>
+<br/> Hello world!
+The ZIP file format is a common archive and compression standard. In this Blog article, we will learn how to Unzip a File. We will see the implementation in Python.
+Check out the Repository for Ultimate Resource in python. Drop a star if... </p> <br/> <br/>
+<p align="left">
+<a href="https://ayushi7rawat.hashnode.dev/find-ip-address-of-any-website-using-python-cki4dutcc04gsbos19kp021uz" title="Find IP Address of any Website Using Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606730489491/Fpt2wWZ5b.png" alt="Find IP Address of any Website Using Python" width="250px" align="left" /></a>
+<a href="https://ayushi7rawat.hashnode.dev/find-ip-address-of-any-website-using-python-cki4dutcc04gsbos19kp021uz" title="Find IP Address of any Website Using Python"><strong>Find IP Address of any Website Using Python</strong></a>
+<br/> Hello world!
+IP address helps in connecting our computer to other devices on our network and all over the world. In this Blog article, we will learn how to Find IP Address of any Website. We will see the implementation in Python.
+Check out the Reposi... </p> <br/> <br/>
+<p align="left">
+<a href="https://ayushi7rawat.hashnode.dev/create-a-random-password-generator-using-python-cki2zey5300h0dts12agr1v2z" title="Create a Random Password Generator using Python"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606628232922/SjJmKXxNP.png" alt="Create a Random Password Generator using Python" width="250px" align="right" /></a>
+<a href="https://ayushi7rawat.hashnode.dev/create-a-random-password-generator-using-python-cki2zey5300h0dts12agr1v2z" title="Create a Random Password Generator using Python"><strong>Create a Random Password Generator using Python</strong></a>
+<br/> Hello world!
+We all make use of passwords on a daily basis, to keep your account safe and prevent your password from being hacked we have to make our password is hard enough that nobody can guess.
+Password generator is a Random Password generating pr... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
