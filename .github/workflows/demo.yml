@@ -1,7 +1,7 @@
 name: "Hashnode Blog Demo"
 
 env:
-  hashnode_username: 'varunsridharan'
+  hashnode_username: 'ayushi7rawat'
   count: 6
 
 on:
