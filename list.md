@@ -14,10 +14,10 @@
 ---
 
 <!-- HASHNODE_BLOG:START -->
-- [Work From Home Essentials](https://ayushi7rawat.hashnode.dev/work-from-home-essentials-cki9snmyq03lmxfs18arme3wd)
-- [How to Develop a STRATEGY?](https://ayushi7rawat.hashnode.dev/how-to-develop-a-strategy-cki870bju00umhps126m3cwas)
-- [Automate Notion with Python](https://ayushi7rawat.hashnode.dev/automate-notion-with-python-cki79qpun00o3nts15lad3v54)
-- [Unzip any File Using Python](https://ayushi7rawat.hashnode.dev/unzip-any-file-using-python-cki5im3yc09h5ans139g576va)
-- [Find IP Address of any Website Using Python](https://ayushi7rawat.hashnode.dev/find-ip-address-of-any-website-using-python-cki4dutcc04gsbos19kp021uz)
-- [Create a Random Password Generator using Python](https://ayushi7rawat.hashnode.dev/create-a-random-password-generator-using-python-cki2zey5300h0dts12agr1v2z)
+- [What is Competitive Programming | Beginners Guide](https://ayushi7rawat.hashnode.dev/what-is-competitive-programming-or-beginners-guide-ckok68rut0191gts158dnara3)
+- [Best IDE's for Python](https://ayushi7rawat.hashnode.dev/best-ides-for-python-ckodsax420doxeps11p2t9nn6)
+- [How to Perform Google Search using Python](https://ayushi7rawat.hashnode.dev/how-to-perform-google-search-using-python-cko9hi3we01hlgws1dsbsc80d)
+- [Top 5 Languages to Learn to Get a Job in 2021](https://ayushi7rawat.hashnode.dev/top-5-languages-to-learn-to-get-a-job-in-2021-cko5akwg005d083s12amfhu9z)
+- [5 COVID Related Interview Questions You Must Know About](https://ayushi7rawat.hashnode.dev/5-covid-related-interview-questions-you-must-know-about-cko3rsyld06o7els13pj7d7r0)
+- [Top 5 Books for learning Python](https://ayushi7rawat.hashnode.dev/top-5-books-for-learning-python-ckny5kj8d0ch2g1s1budvc8ey)
 <!-- HASHNODE_BLOG:END -->
